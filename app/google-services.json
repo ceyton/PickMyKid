@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "471278165488",
+    "project_id": "flutterfree-84838",
+    "storage_bucket": "flutterfree-84838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471278165488:android:312fc5d48088a457581135",
+        "android_client_info": {
+          "package_name": "com.zashhaos.pickmykid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471278165488-7v8ov258o9khrphiup6q7a94qnnls26j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd-_315RrSYbaHIX3HfvCpu5LFPZTes8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471278165488-7v8ov258o9khrphiup6q7a94qnnls26j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471278165488:android:930a626d6dd8a1ad581135",
+        "android_client_info": {
+          "package_name": "com.zashhaos.projemanag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471278165488-ramnnrm2mb9qbi5hn5nqd02kneaak21q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zashhaos.projemanag",
+            "certificate_hash": "558cb7c29d1bcd7888d97c60f3baf2830b4f6a8f"
+          }
+        },
+        {
+          "client_id": "471278165488-7v8ov258o9khrphiup6q7a94qnnls26j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd-_315RrSYbaHIX3HfvCpu5LFPZTes8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471278165488-7v8ov258o9khrphiup6q7a94qnnls26j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
